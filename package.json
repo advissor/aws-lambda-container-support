@@ -1,0 +1,27 @@
+{
+  "name": "aws-lamba-container-support",
+  "version": "1.0.0",
+  "description": "Blog post on using docker containers inside AWS Lambda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advissor/aws-lambda-container-support.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "docker",
+    "dockerfile",
+    "example",
+    "getstarted"
+  ],
+  "author": "Vlad Didenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/advissor/aws-lambda-container-support/issues"
+  },
+  "homepage": "https://github.com/advissor/aws-lambda-container-support#readme"
+}
